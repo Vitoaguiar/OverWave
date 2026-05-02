@@ -1,0 +1,264 @@
+{
+  "decks": [
+    {
+      "id": "p2-daaadd",
+      "name": "daaadd",
+      "owner": "p2",
+      "picks": [
+        {
+          "id": "qiuyuan",
+          "name": "Qiuyuan",
+          "element": "Aero",
+          "level": "c0",
+          "cost": 18
+        },
+        {
+          "id": "sigrika",
+          "name": "Sigrika",
+          "element": "Aero",
+          "level": "c0",
+          "cost": 23
+        },
+        {
+          "id": "yangyang",
+          "name": "Yangyang",
+          "element": "Aero",
+          "level": "c6",
+          "cost": 3
+        },
+        {
+          "id": "aalto",
+          "name": "Aalto",
+          "element": "Aero",
+          "level": "c6",
+          "cost": 4
+        },
+        {
+          "id": "cantarella",
+          "name": "Cantarella",
+          "element": "Havoc",
+          "level": "c2",
+          "cost": 22
+        },
+        {
+          "id": "phrolova",
+          "name": "Phrolova",
+          "element": "Havoc",
+          "level": "c1",
+          "cost": 19
+        },
+        {
+          "id": "taoqi",
+          "name": "Taoqi",
+          "element": "Havoc",
+          "level": "c6",
+          "cost": 3
+        },
+        {
+          "id": "verina",
+          "name": "Verina",
+          "element": "Spectro",
+          "level": "c2",
+          "cost": 9
+        },
+        {
+          "id": "shorekeeper",
+          "name": "Shorekeeper",
+          "element": "Spectro",
+          "level": "c0",
+          "cost": 13
+        },
+        {
+          "id": "phoebe",
+          "name": "Phoebe",
+          "element": "Spectro",
+          "level": "c0",
+          "cost": 14
+        },
+        {
+          "id": "lynae",
+          "name": "Lynae",
+          "element": "Spectro",
+          "level": "c0",
+          "cost": 16
+        },
+        {
+          "id": "baizhi",
+          "name": "Baizhi",
+          "element": "Glacio",
+          "level": "c6",
+          "cost": 4
+        },
+        {
+          "id": "sanhua",
+          "name": "Sanhua",
+          "element": "Glacio",
+          "level": "c6",
+          "cost": 8
+        },
+        {
+          "id": "galbrena",
+          "name": "Galbrena",
+          "element": "Fusion",
+          "level": "c1",
+          "cost": 24
+        },
+        {
+          "id": "mornye",
+          "name": "Mornye",
+          "element": "Fusion",
+          "level": "c1",
+          "cost": 18
+        },
+        {
+          "id": "yuanwu",
+          "name": "Yuanwu",
+          "element": "Electro",
+          "level": "c6",
+          "cost": 2
+        },
+        {
+          "id": "lumi",
+          "name": "Lumi",
+          "element": "Electro",
+          "level": "c6",
+          "cost": 4
+        }
+      ],
+      "totalPoints": 204,
+      "teamSize": 17,
+      "createdAt": "2026-05-02T22:48:48.845Z",
+      "updatedAt": "2026-05-02T22:48:48.844Z"
+    },
+    {
+      "id": "p1-aaaaa",
+      "name": "aaaaa",
+      "owner": "p1",
+      "picks": [
+        {
+          "id": "jianxin",
+          "name": "Jianxin",
+          "element": "Aero",
+          "level": "c5",
+          "cost": 4
+        },
+        {
+          "id": "iuno",
+          "name": "Iuno",
+          "element": "Aero",
+          "level": "c0",
+          "cost": 20
+        },
+        {
+          "id": "aalto",
+          "name": "Aalto",
+          "element": "Aero",
+          "level": "c6",
+          "cost": 4
+        },
+        {
+          "id": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "element": "Spectro",
+          "level": "c6",
+          "cost": 8
+        },
+        {
+          "id": "verina",
+          "name": "Verina",
+          "element": "Spectro",
+          "level": "c2",
+          "cost": 9
+        },
+        {
+          "id": "shorekeeper",
+          "name": "Shorekeeper",
+          "element": "Spectro",
+          "level": "c0",
+          "cost": 13
+        },
+        {
+          "id": "lynae",
+          "name": "Lynae",
+          "element": "Spectro",
+          "level": "c0",
+          "cost": 16
+        },
+        {
+          "id": "baizhi",
+          "name": "Baizhi",
+          "element": "Glacio",
+          "level": "c6",
+          "cost": 4
+        },
+        {
+          "id": "sanhua",
+          "name": "Sanhua",
+          "element": "Glacio",
+          "level": "c6",
+          "cost": 8
+        },
+        {
+          "id": "brant",
+          "name": "Brant",
+          "element": "Fusion",
+          "level": "c1",
+          "cost": 17
+        },
+        {
+          "id": "lupa",
+          "name": "Lupa",
+          "element": "Fusion",
+          "level": "c2",
+          "cost": 23
+        },
+        {
+          "id": "aemeath",
+          "name": "Aemeath",
+          "element": "Fusion",
+          "level": "c0",
+          "cost": 24
+        },
+        {
+          "id": "mortefi",
+          "name": "Mortefi",
+          "element": "Fusion",
+          "level": "c6",
+          "cost": 6
+        },
+        {
+          "id": "chixia",
+          "name": "Chixia",
+          "element": "Fusion",
+          "level": "c6",
+          "cost": 3
+        },
+        {
+          "id": "augusta",
+          "name": "Augusta",
+          "element": "Electro",
+          "level": "c1",
+          "cost": 22
+        },
+        {
+          "id": "lumi",
+          "name": "Lumi",
+          "element": "Electro",
+          "level": "c6",
+          "cost": 4
+        },
+        {
+          "id": "buling",
+          "name": "Buling",
+          "element": "Electro",
+          "level": "c4",
+          "cost": 5
+        }
+      ],
+      "totalPoints": 190,
+      "teamSize": 17,
+      "createdAt": "2026-05-02T22:48:41.553Z",
+      "updatedAt": "2026-05-02T22:48:41.553Z"
+    }
+  ]
+}

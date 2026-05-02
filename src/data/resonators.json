@@ -1,0 +1,737 @@
+[
+  {
+    "id": "luuk-herssen",
+    "name": "Luuk Herssen",
+    "element": "Spectro",
+    "costs": {
+      "c0": 24,
+      "c1": 32,
+      "c2": 41,
+      "c3": 62,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "hiyuki",
+    "name": "Hiyuki",
+    "element": "Glacio",
+    "costs": {
+      "c0": 24,
+      "c1": 32,
+      "c2": 44,
+      "c3": 65,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "aemeath",
+    "name": "Aemeath",
+    "element": "Fusion",
+    "costs": {
+      "c0": 24,
+      "c1": 29,
+      "c2": 41,
+      "c3": 58,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "sigrika",
+    "name": "Sigrika",
+    "element": "Aero",
+    "costs": {
+      "c0": 23,
+      "c1": 30,
+      "c2": 41,
+      "c3": 56,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "cartethyia",
+    "name": "Cartethyia",
+    "element": "Aero",
+    "costs": {
+      "c0": 20,
+      "c1": 28,
+      "c2": 38,
+      "c3": 55,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "iuno",
+    "name": "Iuno",
+    "element": "Aero",
+    "costs": {
+      "c0": 20,
+      "c1": 26,
+      "c2": 35,
+      "c3": 50,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "galbrena",
+    "name": "Galbrena",
+    "element": "Fusion",
+    "costs": {
+      "c0": 19,
+      "c1": 24,
+      "c2": 34,
+      "c3": 47,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "qiuyuan",
+    "name": "Qiuyuan",
+    "element": "Aero",
+    "costs": {
+      "c0": 18,
+      "c1": 21,
+      "c2": 25,
+      "c3": 42,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "carlotta",
+    "name": "Carlotta",
+    "element": "Glacio",
+    "costs": {
+      "c0": 17,
+      "c1": 22,
+      "c2": 32,
+      "c3": 40,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "lynae",
+    "name": "Lynae",
+    "element": "Spectro",
+    "costs": {
+      "c0": 16,
+      "c1": 20,
+      "c2": 27,
+      "c3": 40,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "phrolova",
+    "name": "Phrolova",
+    "element": "Havoc",
+    "costs": {
+      "c0": 16,
+      "c1": 19,
+      "c2": 33,
+      "c3": 49,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "augusta",
+    "name": "Augusta",
+    "element": "Electro",
+    "costs": {
+      "c0": 16,
+      "c1": 22,
+      "c2": 36,
+      "c3": 45,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "ciaccona",
+    "name": "Ciaccona",
+    "element": "Aero",
+    "costs": {
+      "c0": 15,
+      "c1": 19,
+      "c2": 24,
+      "c3": 35,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "lupa",
+    "name": "Lupa",
+    "element": "Fusion",
+    "costs": {
+      "c0": 15,
+      "c1": 17,
+      "c2": 23,
+      "c3": 34,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "phoebe",
+    "name": "Phoebe",
+    "element": "Spectro",
+    "costs": {
+      "c0": 14,
+      "c1": 20,
+      "c2": 31,
+      "c3": 44,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "mornye",
+    "name": "Mornye",
+    "element": "Fusion",
+    "costs": {
+      "c0": 14,
+      "c1": 18,
+      "c2": 21,
+      "c3": 26,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "shorekeeper",
+    "name": "Shorekeeper",
+    "element": "Spectro",
+    "costs": {
+      "c0": 13,
+      "c1": 15,
+      "c2": 21,
+      "c3": 26,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "zani",
+    "name": "Zani",
+    "element": "Spectro",
+    "costs": {
+      "c0": 12,
+      "c1": 18,
+      "c2": 28,
+      "c3": 40,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "cantarella",
+    "name": "Cantarella",
+    "element": "Havoc",
+    "costs": {
+      "c0": 12,
+      "c1": 15,
+      "c2": 22,
+      "c3": 30,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "chisa",
+    "name": "Chisa",
+    "element": "Havoc",
+    "costs": {
+      "c0": 12,
+      "c1": 15,
+      "c2": 19,
+      "c3": 30,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "brant",
+    "name": "Brant",
+    "element": "Fusion",
+    "costs": {
+      "c0": 11,
+      "c1": 17,
+      "c2": 25,
+      "c3": 38,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "jinhsi",
+    "name": "Jinhsi",
+    "element": "Spectro",
+    "costs": {
+      "c0": 10,
+      "c1": 15,
+      "c2": 18,
+      "c3": 27,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "jiyan",
+    "name": "Jiyan",
+    "element": "Aero",
+    "costs": {
+      "c0": 10,
+      "c1": 12,
+      "c2": 16,
+      "c3": 24,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "changli",
+    "name": "Changli",
+    "element": "Fusion",
+    "costs": {
+      "c0": 10,
+      "c1": 11,
+      "c2": 14,
+      "c3": 20,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "zhezhi",
+    "name": "Zhezhi",
+    "element": "Glacio",
+    "costs": {
+      "c0": 9,
+      "c1": 10,
+      "c2": 11,
+      "c3": 16,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "rover-spectro",
+    "name": "Rover (Spectro)",
+    "element": "Spectro",
+    "costs": {
+      "c0": 8,
+      "c1": 8,
+      "c2": 8,
+      "c3": 8,
+      "c4": 8,
+      "c5": 8,
+      "c6": 8
+    },
+    "rarity": 5
+  },
+  {
+    "id": "sanhua",
+    "name": "Sanhua",
+    "element": "Glacio",
+    "costs": {
+      "c0": 8,
+      "c1": 8,
+      "c2": 8,
+      "c3": 8,
+      "c4": 8,
+      "c5": 8,
+      "c6": 8
+    },
+    "rarity": 4
+  },
+  {
+    "id": "xiangli-yao",
+    "name": "Xiangli Yao",
+    "element": "Electro",
+    "costs": {
+      "c0": 8,
+      "c1": 10,
+      "c2": 13,
+      "c3": 17,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "rover-havoc",
+    "name": "Rover (Havoc)",
+    "element": "Havoc",
+    "costs": {
+      "c0": 7,
+      "c1": 7,
+      "c2": 7,
+      "c3": 7,
+      "c4": 7,
+      "c5": 7,
+      "c6": 7
+    },
+    "rarity": 5
+  },
+  {
+    "id": "verina",
+    "name": "Verina",
+    "element": "Spectro",
+    "costs": {
+      "c0": 6,
+      "c1": 6,
+      "c2": 9,
+      "c3": 9,
+      "c4": 11,
+      "c5": 11,
+      "c6": 11
+    },
+    "rarity": 5
+  },
+  {
+    "id": "camellya",
+    "name": "Camellya",
+    "element": "Havoc",
+    "costs": {
+      "c0": 6,
+      "c1": 9,
+      "c2": 18,
+      "c3": 27,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "roccia",
+    "name": "Roccia",
+    "element": "Havoc",
+    "costs": {
+      "c0": 6,
+      "c1": 9,
+      "c2": 15,
+      "c3": 18,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "mortefi",
+    "name": "Mortefi",
+    "element": "Fusion",
+    "costs": {
+      "c0": 6,
+      "c1": 6,
+      "c2": 6,
+      "c3": 6,
+      "c4": 6,
+      "c5": 6,
+      "c6": 6
+    },
+    "rarity": 4
+  },
+  {
+    "id": "rover-aero",
+    "name": "Rover (Aero)",
+    "element": "Aero",
+    "costs": {
+      "c0": 5,
+      "c1": 5,
+      "c2": 5,
+      "c3": 5,
+      "c4": 5,
+      "c5": 5,
+      "c6": 5
+    },
+    "rarity": 5
+  },
+  {
+    "id": "lingyang",
+    "name": "Lingyang",
+    "element": "Glacio",
+    "costs": {
+      "c0": 5,
+      "c1": 6,
+      "c2": 6,
+      "c3": 7,
+      "c4": 8,
+      "c5": 10,
+      "c6": 12
+    },
+    "rarity": 5
+  },
+  {
+    "id": "buling",
+    "name": "Buling",
+    "element": "Electro",
+    "costs": {
+      "c0": 5,
+      "c1": 5,
+      "c2": 5,
+      "c3": 5,
+      "c4": 5,
+      "c5": 5,
+      "c6": 8
+    },
+    "rarity": 4
+  },
+  {
+    "id": "calcharo",
+    "name": "Calcharo",
+    "element": "Electro",
+    "costs": {
+      "c0": 5,
+      "c1": 5,
+      "c2": 6,
+      "c3": 8,
+      "c4": 9,
+      "c5": 11,
+      "c6": 14
+    },
+    "rarity": 5
+  },
+  {
+    "id": "yinlin",
+    "name": "Yinlin",
+    "element": "Electro",
+    "costs": {
+      "c0": 5,
+      "c1": 7,
+      "c2": 10,
+      "c3": 14,
+      "c4": 1000,
+      "c5": 1000,
+      "c6": 1000
+    },
+    "rarity": 5
+  },
+  {
+    "id": "encore",
+    "name": "Encore",
+    "element": "Fusion",
+    "costs": {
+      "c0": 5,
+      "c1": 6,
+      "c2": 6,
+      "c3": 6,
+      "c4": 7,
+      "c5": 8,
+      "c6": 10
+    },
+    "rarity": 5
+  },
+  {
+    "id": "aalto",
+    "name": "Aalto",
+    "element": "Aero",
+    "costs": {
+      "c0": 4,
+      "c1": 4,
+      "c2": 4,
+      "c3": 4,
+      "c4": 4,
+      "c5": 4,
+      "c6": 4
+    },
+    "rarity": 4
+  },
+  {
+    "id": "baizhi",
+    "name": "Baizhi",
+    "element": "Glacio",
+    "costs": {
+      "c0": 4,
+      "c1": 4,
+      "c2": 4,
+      "c3": 4,
+      "c4": 4,
+      "c5": 4,
+      "c6": 4
+    },
+    "rarity": 4
+  },
+  {
+    "id": "lumi",
+    "name": "Lumi",
+    "element": "Electro",
+    "costs": {
+      "c0": 4,
+      "c1": 4,
+      "c2": 4,
+      "c3": 4,
+      "c4": 4,
+      "c5": 4,
+      "c6": 4
+    },
+    "rarity": 4
+  },
+  {
+    "id": "danjin",
+    "name": "Danjin",
+    "element": "Havoc",
+    "costs": {
+      "c0": 3,
+      "c1": 3,
+      "c2": 3,
+      "c3": 3,
+      "c4": 3,
+      "c5": 3,
+      "c6": 3
+    },
+    "rarity": 4
+  },
+  {
+    "id": "taoqi",
+    "name": "Taoqi",
+    "element": "Havoc",
+    "costs": {
+      "c0": 3,
+      "c1": 3,
+      "c2": 3,
+      "c3": 3,
+      "c4": 3,
+      "c5": 3,
+      "c6": 3
+    },
+    "rarity": 4
+  },
+  {
+    "id": "yangyang",
+    "name": "Yangyang",
+    "element": "Aero",
+    "costs": {
+      "c0": 3,
+      "c1": 3,
+      "c2": 3,
+      "c3": 3,
+      "c4": 3,
+      "c5": 3,
+      "c6": 3
+    },
+    "rarity": 4
+  },
+  {
+    "id": "jianxin",
+    "name": "Jianxin",
+    "element": "Aero",
+    "costs": {
+      "c0": 3,
+      "c1": 3,
+      "c2": 4,
+      "c3": 4,
+      "c4": 4,
+      "c5": 4,
+      "c6": 7
+    },
+    "rarity": 5
+  },
+  {
+    "id": "chixia",
+    "name": "Chixia",
+    "element": "Fusion",
+    "costs": {
+      "c0": 3,
+      "c1": 3,
+      "c2": 3,
+      "c3": 3,
+      "c4": 3,
+      "c5": 3,
+      "c6": 3
+    },
+    "rarity": 4
+  },
+  {
+    "id": "youhu",
+    "name": "Youhu",
+    "element": "Glacio",
+    "costs": {
+      "c0": 2,
+      "c1": 2,
+      "c2": 2,
+      "c3": 2,
+      "c4": 2,
+      "c5": 2,
+      "c6": 2
+    },
+    "rarity": 4
+  },
+  {
+    "id": "yuanwu",
+    "name": "Yuanwu",
+    "element": "Electro",
+    "costs": {
+      "c0": 2,
+      "c1": 2,
+      "c2": 2,
+      "c3": 2,
+      "c4": 2,
+      "c5": 2,
+      "c6": 2
+    },
+    "rarity": 4
+  }
+]
